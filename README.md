@@ -1,9 +1,9 @@
 # World_Weather_Analysis
 When planning one's vacation, typically weather is one of the largest factors in deciding where to go. Within this project, the goal is to use weather API's to determine the climate within a specified region. Using OpenWeatherMap, cities within the API will be placed within a dataframe and filtered based on the user's preferences. For example, the cities could be filtered based on the user's temperature preference, and only cities that have a certain temperature will be included within their search. A vacation itinerary will also be created using four random cities, and the purpose of this would be to simulate a user planning their trip should multiple destinations be included. Even outside of vacation information, climate factors can be utilized to create heatmaps of the globe and show which general areas contain the ideal weather the user would search for. 
-![vacation map image] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
+![vacation map image] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG?raw=true)
 Under this image, cities were filtered through a maximum and minimum temperature, and cities matching the criteria inputted by the user were represented through these pins. Clicking the pins would lead to more details concerning the city, such as the name, country, climate description and temperature.
 
 
-![vacation itenerary travel map] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
-![vacation itenerary markers] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+![vacation itenerary travel map] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG?raw=true)
+![vacation itenerary markers] (https://github.com/michaelxie1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG?raw=true)
 Under these two images, the top image shows a simulated itenary of a vacation that a typical family would take. The maps show a possible route that they could take within to travel to all four cities as well as provide markers containing the cities information.
